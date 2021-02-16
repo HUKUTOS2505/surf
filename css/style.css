@@ -3,5 +3,7 @@ html{-webkit-box-sizing:border-box;box-sizing:border-box}*,::after,::before{-web
         margin-left: -15px;
             width:500px;
     }
-
+  .shop .title h3{
+        margin-left: 20px;
+    }
 .headline-left{letter-spacing:2.3px}.subtitle__head{padding-right:0;font-size:29px}}@media (max-width:460px){.header__aside{display:block;text-align:center;padding-right:0;height:100vh}.holder-slider__descr .descr__head .holder__star-list{position:static;margin-left:-15px}.holder-slider__descr .descr__head.descr__head-sleep{padding-right:0}.subtitle__head span{display:none}.title div{font-size:73px!important}.header__search{padding:15px 0 5px}.holder{background-size:120px}.header__date{padding:0;font-size:50px;line-height:45px}.header__date span{font-size:12px}.header__location{margin-top:8px}.header__title{display:none}}@media (max-width:425px){.slider-map .slick-current .slider-dots__content,.slider-map .slider-dots__content{display:block;width:250px;padding:28px 15px 0}}@media (max-width:374px){.slider-map .slick-current .slider-dots__content,.slider-map .slider-dots__content{display:block;width:200px;padding:28px 10px 0}}
